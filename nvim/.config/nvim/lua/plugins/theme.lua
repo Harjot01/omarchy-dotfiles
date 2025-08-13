@@ -1,0 +1,1 @@
+/home/harjot/.config/omarchy/current/theme/neovim.lua
